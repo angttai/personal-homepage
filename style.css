@@ -31,3 +31,13 @@ footer {
   text-align: center;
   padding: 10px;
 }
+/* Make the layout responsive */
+body {
+  max-width: 100%;
+}
+
+section {
+  width: 90%;
+  max-width: 700px;
+  margin: 20px auto;
+}
